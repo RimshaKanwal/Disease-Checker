@@ -1,0 +1,11 @@
+/* .footer-distributed{
+	/* margin-top: 12em; */ 
+.container{
+    float: right;
+margin-right: 13.5em;
+color: rgb(38, 72, 165);
+padding: 10px;
+}
+body{
+    background-image: url("../image/back5.jpg");
+}
